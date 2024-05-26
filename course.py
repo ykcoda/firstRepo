@@ -1,4 +1,5 @@
 class Course:
 
     __pTitle = ""
-    __ptime = ""
+    __pTime = ""
+    __pYear = ""
