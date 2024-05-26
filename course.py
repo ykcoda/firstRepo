@@ -1,2 +1,4 @@
 class Course:
-    pass
+
+    __pTitle = ""
+    __ptime = ""
