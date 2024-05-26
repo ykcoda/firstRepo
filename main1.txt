@@ -2,6 +2,3 @@ this is my master1 file
 
 
 making more changes to this file
-
-
-moreinfo added 
